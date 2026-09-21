@@ -171,6 +171,9 @@ A Generative Adversarial Network (GAN) is a deep learning model used to generate
 The Generator takes a random noise vector as input and produces a synthetic image. The Discriminator receives both real images from the CIFAR-10 dataset and generated images, and predicts whether each image is real or fake. During training, the Generator tries to produce images that can fool the Discriminator, while the Discriminator learns to correctly identify real and generated images. This process is repeated for several iterations until the Generator produces increasingly realistic images.
 
 
+
+
+
 <img width="2048" height="1422" alt="image" src="https://github.com/user-attachments/assets/81702f28-037c-44af-964a-3bb0adc1f0de" />
 
     
